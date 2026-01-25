@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: www.allezeitderwelt.online/sitemap.xml
