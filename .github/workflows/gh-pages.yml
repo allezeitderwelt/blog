@@ -23,7 +23,7 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: "latest"
-          extended: true # 【关键修改】Blowfish 需要这个来编译 CSS
+          # extended: true # 【关键修改】Blowfish 需要这个来编译 CSS
 
       - name: Build
         run: hugo --minify
