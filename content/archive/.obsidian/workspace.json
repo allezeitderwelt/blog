@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "9fc613558aa47770",
+    "type": "split",
+    "children": [
+      {
+        "id": "416ba47fc99cd23f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab01d7aee01ccd35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "new.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "new"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db7633021edce7e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a9cc72e1303d2ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9f2dc32e6bba02f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2f8893cd1b44eb9f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d399778089724bd0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "91a370f99b4fee16",
+    "type": "split",
+    "children": [
+      {
+        "id": "898bedf8e16693fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98f6e9c2a5ae7f74",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "new.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for new"
+            }
+          },
+          {
+            "id": "774cf732e5316d4c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "new.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from new"
+            }
+          },
+          {
+            "id": "517aa2ad69abb41b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8036853ad1db1c53",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a65adcc95cedcfb0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "new.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of new"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ab01d7aee01ccd35",
+  "lastOpenFiles": [
+    "Wrapping up 2025.md",
+    "老家的记忆.md",
+    "new.md",
+    "2026-01-24-build-new-site.md",
+    "2025-12-11-little-eulogy-of-love.md",
+    "2025-09-13-responsibility.md",
+    "2025-07-29-newthings.md",
+    "2025-07-21-where-is-the-answer.md",
+    "2025-06-30-june-log.md",
+    "2025-06-02-may-log.md",
+    "2025-05-04-reasons-to-go-on.md",
+    "2025-04-17-too-much-information.md",
+    "2025-03-09-lets-talk-about-love-episode-two.md",
+    "2025-03-03-lets-talk-about-love-episode-one.md",
+    "2025-02-11-on-the-edge-of-break-up.md",
+    "2025-01-24-imperfect-story.md",
+    "2025-01-23-me-and-my-writing.md",
+    "2025-01-15-she-passed-away.md",
+    "2025-01-14-davenzi-omg.md",
+    "2025-01-13-womens-child.md",
+    "2024-12-28-wrap-2024-2.md",
+    "2024-12-28-wrap-2024-1.md",
+    "2024-07-31-first-job-offer.md",
+    "2024-02-29-deutsch-lernen-for-two-years.md"
+  ]
+}
