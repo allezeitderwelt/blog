@@ -1,0 +1,49 @@
+/*
+
+@font-face {
+    font-family: font;
+    src: url('/fonts/LXGWWenKai-Regular.ttf');
+} 
+
+html {
+    font-family: font;
+}
+*/
+
+/* Increase the default font size */
+html {
+  font-size: 12pt;
+}
+
+/* 设置加粗格式 */
+b, strong {  
+  margin: 1px 2px;  
+  padding: 2px;  
+  color: #2e405bf0;  
+  background-color: #96d2f0;  
+  font-weight: 400;  
+}  
+
+/* 暗黑模式 */
+.dark b, .dark strong {  
+  margin: 1px 2px;  
+  padding: 2px;  
+  color: #96d2f0;  
+  background-color: rgba(46, 64, 91, 0.94);  
+  font-weight: 400;  
+}
+
+/* 渐变格纹
+body {  
+  background-image:  
+    linear-gradient(0deg, rgba(0, 0, 0, 0.04) 1px, transparent 1px),  
+    linear-gradient(90deg, rgba(0, 0, 0, 0.04) 1px, transparent 1px);  
+  background-size: 8px 8px;  
+}
+*/
+
+body {
+  background-image: url("/img/grid171blue256.jpg"); /* 路径相对于 static 文件夹 */
+  background-repeat: repeat;    /* 如果是小图，设置重复平铺 */
+  background-size: auto;        /* 保持原图大小 */
+}

@@ -2,6 +2,7 @@
 date = '2025-01-14T19:00:38+01:00'
 draft = false
 title = 'why are davenzi fanfics so good?? (i am so sorry)'
+showDate = true
 +++
 
 You really don't need to read this but you really need to read [*mad as the sea and wind*](https://archiveofourown.org/works/18507484/chapters/43859389).

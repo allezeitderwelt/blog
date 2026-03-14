@@ -1,7 +1,7 @@
 ---
-title: "故纸堆"
+title: "Archive of all posts"
 description: "all posts"
 cascade:
-  showDate: true
+  showDate: false
   showAuthor: false
 ---

@@ -3,6 +3,7 @@ date = '2024-07-31T19:00:38+01:00'
 draft = false
 title = '第一个全职工作录取'
 showSummary = "list.showSummary"
+showDate = true
 +++
 
 一些尝试和很多运气。

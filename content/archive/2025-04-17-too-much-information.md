@@ -3,6 +3,7 @@ date = '2024-12-28T19:00:38+01:00'
 draft = false
 title = 'You have too much information in your head'
 showSummary = "list.showSummary"
+showDate = true
 +++
 
 Validation很好，但是我不想过为了validation而奋斗的人生。

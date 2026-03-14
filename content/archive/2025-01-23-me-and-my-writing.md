@@ -3,6 +3,7 @@ date = '2025-01-23T19:00:38+01:00'
 draft = false
 title = '我和我的写作'
 showSummary = "list.showSummary"
+showDate = true
 +++
 
 也不是一拍脑门想到要写博客的。

@@ -3,6 +3,7 @@ date = '2025-03-03T19:00:38+01:00'
 draft = false
 title = '谈了三年恋爱总算有资格谈谈爱了吧（一）'
 showSummary = "list.showSummary"
+showDate = true
 +++
 可能也没有。但就是有话想说。
 

@@ -3,6 +3,7 @@ date = '2025-12-11T19:00:38+01:00'
 draft = false
 title = '爱的小小墓碑'
 showSummary = "list.showSummary"
+showDate = true
 +++
 
 this is the cue to say goodbye.

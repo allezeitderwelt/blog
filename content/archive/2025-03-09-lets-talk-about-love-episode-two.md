@@ -3,6 +3,7 @@ date = '2025-03-09T19:00:38+01:00'
 draft = false
 title = '谈了三年恋爱总算有资格谈谈爱了吧（二）'
 showSummary = "list.showSummary"
+showDate = true
 +++
 
 "It takes strength to know what is right, and love isn't something weak people do."   
