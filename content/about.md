@@ -22,6 +22,10 @@ showWordCount: false
 
 —— 奥尔加·托卡尔丘克 《云游》
 
+最近喜欢做的事情是健身，攀岩，还有听Jill Scott和Sufjan Stevens。
+
+用三个词形容自己的话是introspective， tender， and hopefully funny :)
+
 <details>
   <summary>关于站点设计</summary>
 
@@ -29,6 +33,8 @@ showWordCount: false
 <ul> 
 
 <li> 模板：<a href="https://blowfish.page/zh-cn/">Blowfish</a> </li> 
+
+<li> 部署在GitHub Pages上，使用Visual Studio Code和Obsidian进行文件编辑。</li> 
 
 <li> 背景格纹图片：<a href="https://simple-repeat.com/en/"> simple repeat </a>  </li> 
 
