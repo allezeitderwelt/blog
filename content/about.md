@@ -21,3 +21,21 @@ showWordCount: false
 “摇摇，走走，摆摆。只有这一个办法能摆脱他。他统治世界，但没有权力统领移动中的东西，他知道，我们身体的移动是神圣的，只有动起来、离开原地的时候，你才能逃脱他的魔掌。他统治的是一切静止的、冻结的物事，每一样被动的、怠惰的东西。”
 
 —— 奥尔加·托卡尔丘克 《云游》
+
+<details>
+  <summary>关于站点设计</summary>
+
+
+<ul> 
+
+<li> 模板：<a href="https://blowfish.page/zh-cn/">Blowfish</a> </li> 
+
+<li> 背景格纹图片：<a href="https://simple-repeat.com/en/"> simple repeat </a>  </li> 
+
+<li> Markdown加粗样式参考： <a href="https://nanako.icu/posts/hugo-blog-ui-change-log/#%E6%B7%BB%E5%8A%A0%E5%8F%8B%E9%93%BE"> 友邻nanoko写的教程 </a>  </li> 
+
+<li> Waline评论区建设参考： <a href="https://www.hetong-re4per.com/posts/use-waline-comment-on-hugo/"> 褐瞳さん写的教程 </a>  </li> 
+
+</ul>
+
+</details>
