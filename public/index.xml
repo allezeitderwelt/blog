@@ -9,25 +9,195 @@
     <managingEditor>youremail@example.com (all zeit der welt)</managingEditor>
     <webMaster>youremail@example.com (all zeit der welt)</webMaster>
     <copyright>© 2026 all zeit der welt</copyright>
-    <lastBuildDate>Sun, 08 Feb 2026 19:00:38 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Dec 2025 19:00:38 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>New</title>
-      <link>http://localhost:1313/archive/new/</link>
-      <pubDate>Sun, 08 Feb 2026 19:00:38 +0100</pubDate>
+      <title>Wrapping up 2025</title>
+      <link>http://localhost:1313/archive/2025-12-31-wrapping-up-2025/</link>
+      <pubDate>Wed, 31 Dec 2025 19:00:38 +0100</pubDate>
       <author>youremail@example.com (all zeit der welt)</author>
-      <guid>http://localhost:1313/archive/new/</guid>
-      <description></description>
+      <guid>http://localhost:1313/archive/2025-12-31-wrapping-up-2025/</guid>
+      <description>&lt;p&gt;something old, something new, something borrowed, something blue, and a sliver sixpense in her shoes.&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>Wrapping up 2025</title>
-      <link>http://localhost:1313/archive/wrapping-up-2025/</link>
-      <pubDate>Wed, 31 Dec 2025 19:00:38 +0100</pubDate>
+      <title>爱的小小墓碑</title>
+      <link>http://localhost:1313/archive/2025-12-11-little-eulogy-of-love/</link>
+      <pubDate>Thu, 11 Dec 2025 19:00:38 +0100</pubDate>
       <author>youremail@example.com (all zeit der welt)</author>
-      <guid>http://localhost:1313/archive/wrapping-up-2025/</guid>
-      <description>&lt;p&gt;something old, something new, something borrowed, something blue, and a sliver sixpense in her shoes.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/archive/2025-12-11-little-eulogy-of-love/</guid>
+      <description>&lt;p&gt;this is the cue to say goodbye.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>是对他者的责任让我知道了我自己是谁</title>
+      <link>http://localhost:1313/archive/2025-09-13-responsibility/</link>
+      <pubDate>Sat, 13 Sep 2025 19:00:38 +0100</pubDate>
+      <author>youremail@example.com (all zeit der welt)</author>
+      <guid>http://localhost:1313/archive/2025-09-13-responsibility/</guid>
+      <description>&lt;p&gt;只为自己活着也没有想象的那样简单。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>企鹅，围巾，猴子，蛋白粉，还有布丁挞</title>
+      <link>http://localhost:1313/archive/2025-07-29-newthings/</link>
+      <pubDate>Tue, 29 Jul 2025 19:00:38 +0100</pubDate>
+      <author>youremail@example.com (all zeit der welt)</author>
+      <guid>http://localhost:1313/archive/2025-07-29-newthings/</guid>
+      <description>&lt;p&gt;成年已经八年了但还是有这么多东西想学和要学。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>答案真的不在别人那里吗</title>
+      <link>http://localhost:1313/archive/2025-07-21-where-is-the-answer/</link>
+      <pubDate>Mon, 21 Jul 2025 19:00:38 +0100</pubDate>
+      <author>youremail@example.com (all zeit der welt)</author>
+      <guid>http://localhost:1313/archive/2025-07-21-where-is-the-answer/</guid>
+      <description>&lt;p&gt;星星不知道我的怯慌，人间却有殷切的眼光。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>六月记录</title>
+      <link>http://localhost:1313/archive/2025-06-30-june-log/</link>
+      <pubDate>Mon, 30 Jun 2025 19:00:38 +0100</pubDate>
+      <author>youremail@example.com (all zeit der welt)</author>
+      <guid>http://localhost:1313/archive/2025-06-30-june-log/</guid>
+      <description>&lt;p&gt;My bed is on fire.&#xA;Mama, I&amp;rsquo;m so scared.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>五月记录</title>
+      <link>http://localhost:1313/archive/2025-06-02-may-log/</link>
+      <pubDate>Mon, 02 Jun 2025 19:00:38 +0100</pubDate>
+      <author>youremail@example.com (all zeit der welt)</author>
+      <guid>http://localhost:1313/archive/2025-06-02-may-log/</guid>
+      <description>&lt;p&gt;这下真的成了赛博日记本。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>谈了三年恋爱总算有资格谈谈爱了吧（二）</title>
+      <link>http://localhost:1313/archive/2025-03-09-lets-talk-about-love-episode-two/</link>
+      <pubDate>Sun, 09 Mar 2025 19:00:38 +0100</pubDate>
+      <author>youremail@example.com (all zeit der welt)</author>
+      <guid>http://localhost:1313/archive/2025-03-09-lets-talk-about-love-episode-two/</guid>
+      <description>&lt;p&gt;&amp;ldquo;It takes strength to know what is right, and love isn&amp;rsquo;t something weak people do.&amp;rdquo;&lt;br&gt;&#xA;以及记录一下非常开心的妇女节。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>谈了三年恋爱总算有资格谈谈爱了吧（一）</title>
+      <link>http://localhost:1313/archive/2025-03-03-lets-talk-about-love-episode-one/</link>
+      <pubDate>Mon, 03 Mar 2025 19:00:38 +0100</pubDate>
+      <author>youremail@example.com (all zeit der welt)</author>
+      <guid>http://localhost:1313/archive/2025-03-03-lets-talk-about-love-episode-one/</guid>
+      <description>&lt;p&gt;可能也没有。但就是有话想说。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>爱是会消失的对不对</title>
+      <link>http://localhost:1313/archive/2025-02-11-on-the-edge-of-break-up/</link>
+      <pubDate>Tue, 11 Feb 2025 19:00:38 +0100</pubDate>
+      <author>youremail@example.com (all zeit der welt)</author>
+      <guid>http://localhost:1313/archive/2025-02-11-on-the-edge-of-break-up/</guid>
+      <description>&lt;p&gt;分手前夕。&#xA;In this uncontainable night.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>不完全幸福的故事</title>
+      <link>http://localhost:1313/archive/2025-01-24-imperfect-story/</link>
+      <pubDate>Fri, 24 Jan 2025 19:00:38 +0100</pubDate>
+      <author>youremail@example.com (all zeit der welt)</author>
+      <guid>http://localhost:1313/archive/2025-01-24-imperfect-story/</guid>
+      <description>&lt;p&gt;if we don&amp;rsquo;t laugh about it, what else can we do?&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>我和我的写作</title>
+      <link>http://localhost:1313/archive/2025-01-23-me-and-my-writing/</link>
+      <pubDate>Thu, 23 Jan 2025 19:00:38 +0100</pubDate>
+      <author>youremail@example.com (all zeit der welt)</author>
+      <guid>http://localhost:1313/archive/2025-01-23-me-and-my-writing/</guid>
+      <description>&lt;p&gt;也不是一拍脑门想到要写博客的。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>it makes everything less endurable</title>
+      <link>http://localhost:1313/archive/2025-01-15-she-passed-away/</link>
+      <pubDate>Wed, 15 Jan 2025 19:00:38 +0100</pubDate>
+      <author>youremail@example.com (all zeit der welt)</author>
+      <guid>http://localhost:1313/archive/2025-01-15-she-passed-away/</guid>
+      <description>&lt;p&gt;i don&amp;rsquo;t know why i wrote this in english. i guess it&amp;rsquo;s because i cannot really type down the chinese word for dying right now because it feels so real and strong that it would put me in a horrible whirlwind of emotion. so i crawled back to the language that is farther from my mind and cognition, as if by doing this will mitigate the harm caused by the abrupt death of my cat.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>why are davenzi fanfics so good?? (i am so sorry)</title>
+      <link>http://localhost:1313/archive/2025-01-14-davenzi-omg/</link>
+      <pubDate>Tue, 14 Jan 2025 19:00:38 +0100</pubDate>
+      <author>youremail@example.com (all zeit der welt)</author>
+      <guid>http://localhost:1313/archive/2025-01-14-davenzi-omg/</guid>
+      <description>&lt;p&gt;You really don&amp;rsquo;t need to read this but you really need to read &lt;a href=&#34;https://archiveofourown.org/works/18507484/chapters/43859389&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;em&gt;mad as the sea and wind&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Wrapping up 2024</title>
+      <link>http://localhost:1313/archive/2024-12-28-wrap-2024-1/</link>
+      <pubDate>Sat, 28 Dec 2024 19:00:38 +0100</pubDate>
+      <author>youremail@example.com (all zeit der welt)</author>
+      <guid>http://localhost:1313/archive/2024-12-28-wrap-2024-1/</guid>
+      <description>&lt;p&gt;Moving-forward, speaking my language(s), and what could be more.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Wrapping up 2024 and it is completely different but it is still wrapping up 2024</title>
+      <link>http://localhost:1313/archive/2024-12-28-wrap-2024-2/</link>
+      <pubDate>Sat, 28 Dec 2024 19:00:38 +0100</pubDate>
+      <author>youremail@example.com (all zeit der welt)</author>
+      <guid>http://localhost:1313/archive/2024-12-28-wrap-2024-2/</guid>
+      <description>&lt;p&gt;End-of-the-year questionnaire.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>You have too much information in your head</title>
+      <link>http://localhost:1313/archive/2025-04-17-too-much-information/</link>
+      <pubDate>Sat, 28 Dec 2024 19:00:38 +0100</pubDate>
+      <author>youremail@example.com (all zeit der welt)</author>
+      <guid>http://localhost:1313/archive/2025-04-17-too-much-information/</guid>
+      <description>&lt;p&gt;Validation很好，但是我不想过为了validation而奋斗的人生。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>第一个全职工作录取</title>
+      <link>http://localhost:1313/archive/2024-07-31-first-job-offer/</link>
+      <pubDate>Wed, 31 Jul 2024 19:00:38 +0100</pubDate>
+      <author>youremail@example.com (all zeit der welt)</author>
+      <guid>http://localhost:1313/archive/2024-07-31-first-job-offer/</guid>
+      <description>&lt;p&gt;一些尝试和很多运气。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>两年的德语学习总结</title>
+      <link>http://localhost:1313/archive/2024-02-29-deutsch-lernen-for-two-years/</link>
+      <pubDate>Thu, 29 Feb 2024 19:00:38 +0100</pubDate>
+      <author>youremail@example.com (all zeit der welt)</author>
+      <guid>http://localhost:1313/archive/2024-02-29-deutsch-lernen-for-two-years/</guid>
+      <description>&lt;p&gt;如果从第一节在苏黎世的德语课算起，到今年二月份我正好学满了两年德语。这两年我一直生活在德语区，主要的生活过的城市有苏黎世和不来梅。虽然学习和生活语言是英语，但是出于兴趣还有生活必需，我一直在不间断地在课外时间上语言课，到今年二月考出了一份德语B2的证书。在这篇笔记里我想记录一下我这两年里和这门语言缠斗的过程，想法，还有一些非常个人的经验。&lt;/p&gt;</description>
       
     </item>
     
