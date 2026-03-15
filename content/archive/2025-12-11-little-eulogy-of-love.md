@@ -4,6 +4,9 @@ draft = false
 title = '爱的小小墓碑'
 showSummary = "list.showSummary"
 showDate = true
+showReadingTime = false
+showAuthor = false
+showWordCount = false
 +++
 
 this is the cue to say goodbye.

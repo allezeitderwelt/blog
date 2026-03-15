@@ -4,6 +4,9 @@ draft = false
 title = 'You have too much information in your head'
 showSummary = "list.showSummary"
 showDate = true
+showReadingTime = false
+showAuthor = false
+showWordCount = false
 +++
 
 Validation很好，但是我不想过为了validation而奋斗的人生。

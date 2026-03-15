@@ -3,6 +3,9 @@ date = '2025-01-15T19:00:38+01:00'
 draft = false
 title = 'it makes everything less endurable'
 showDate = true
+showReadingTime = false
+showAuthor = false
+showWordCount = false
 +++
 
 i don't know why i wrote this in english. i guess it's because i cannot really type down the chinese word for dying right now because it feels so real and strong that it would put me in a horrible whirlwind of emotion. so i crawled back to the language that is farther from my mind and cognition, as if by doing this will mitigate the harm caused by the abrupt death of my cat.

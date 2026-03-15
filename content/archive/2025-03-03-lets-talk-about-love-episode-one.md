@@ -4,7 +4,11 @@ draft = false
 title = '谈了三年恋爱总算有资格谈谈爱了吧（一）'
 showSummary = "list.showSummary"
 showDate = true
+showReadingTime = false
+showAuthor = false
+showWordCount = false
 +++
+
 可能也没有。但就是有话想说。
 
 <!--more-->

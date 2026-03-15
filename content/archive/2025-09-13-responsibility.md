@@ -4,6 +4,9 @@ draft = false
 title = '是对他者的责任让我知道了我自己是谁'
 showSummary = "list.showSummary"
 showDate = true
+showReadingTime = false
+showAuthor = false
+showWordCount = false
 +++
 
 只为自己活着也没有想象的那样简单。

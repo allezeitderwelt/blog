@@ -4,6 +4,9 @@ draft = false
 title = '第一个全职工作录取'
 showSummary = "list.showSummary"
 showDate = true
+showReadingTime = false
+showAuthor = false
+showWordCount = false
 +++
 
 一些尝试和很多运气。

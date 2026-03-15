@@ -4,6 +4,9 @@ draft = false
 title = '答案真的不在别人那里吗'
 showSummary = "list.showSummary"
 showDate = true
+showReadingTime = false
+showAuthor = false
+showWordCount = false
 +++
 
 

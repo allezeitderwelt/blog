@@ -4,6 +4,9 @@ draft = false
 title = '谈了三年恋爱总算有资格谈谈爱了吧（二）'
 showSummary = "list.showSummary"
 showDate = true
+showReadingTime = false
+showAuthor = false
+showWordCount = false
 +++
 
 "It takes strength to know what is right, and love isn't something weak people do."   

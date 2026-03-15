@@ -4,6 +4,9 @@ draft = false
 title = '不完全幸福的故事'
 showSummary = "list.showSummary"
 showDate = true
+showReadingTime = false
+showAuthor = false
+showWordCount = false
 +++
 
 if we don't laugh about it, what else can we do?

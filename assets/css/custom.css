@@ -47,3 +47,7 @@ body {
   background-repeat: repeat;    /* 如果是小图，设置重复平铺 */
   background-size: auto;        /* 保持原图大小 */
 }
+
+.max-w-prose {  
+  max-width: none !important;  
+}

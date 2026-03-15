@@ -4,6 +4,9 @@ draft = false
 title = '企鹅，围巾，猴子，蛋白粉，还有布丁挞'
 showSummary = "list.showSummary"
 showDate = true
+showReadingTime = false
+showAuthor = false
+showWordCount = false
 +++
 
 

@@ -106,8 +106,8 @@
   <link
     type="text/css"
     rel="stylesheet"
-    href="/css/main.bundle.min.3fad42a7836cd888ee584990e829ac8bbe938878de6c7aca85c626d41b183ea3e1061505a4100dedf8bb56989b7812e1a357a2944b6a60e480395143b0e67212.css"
-    integrity="sha512-P61Cp4Ns2IjuWEmQ6Cmsi76TiHjebHrKhcYm1BsYPqPhBhUFpBAN7fi7VpibeBLho1eilEtqYOSAOVFDsOZyEg==">
+    href="/css/main.bundle.min.c13e39e764dd36a8fbe3251530c5c741c5f4effcc1c69a40f4417488abbdcde223ad8b3d315108b9c1f31f964d30e0b260df5f8ec71832c064593c490fb523a7.css"
+    integrity="sha512-wT4552TdNqj74yUVMMXHQcX07/zBxppA9EF0iKu9zeIjrYs9MVEIucHzH5ZNMOCyYN9fjscYMsBkWTxJD7Ujpw==">
 
   
   
@@ -530,6 +530,23 @@
 
 
 
+
+  <script>
+    (function () {
+      var mainmenu = document.querySelector(".main-menu");
+      if (!mainmenu) return;
+
+      var path = window.location.pathname;
+      var links = mainmenu.querySelectorAll('a[href="' + path + '"]');
+
+      links.forEach(function (link) {
+        var targets = link.querySelectorAll("span");
+        targets.forEach(function (el) {
+          el.classList.add("active");
+        });
+      });
+    })();
+  </script>
 
 
     
