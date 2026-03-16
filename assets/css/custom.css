@@ -19,8 +19,8 @@ html {
 b, strong {  
   margin: 1px 2px;  
   padding: 2px;  
-  color: #2e405bf0;  
-  background-color: #96d2f0;  
+  color: #060408de;  
+  background-color: #d6c5ec;  
   font-weight: 400;  
 }  
 
@@ -43,9 +43,18 @@ body {
 */
 
 body {
-  background-image: url("/img/grid171blue256.jpg"); /* 路径相对于 static 文件夹 */
-  background-repeat: repeat;    /* 如果是小图，设置重复平铺 */
-  background-size: auto;        /* 保持原图大小 */
+  /* 默认：浅色模式下的灰色线条 */
+  --grid-color: rgba(243, 235, 244, 0.744); 
+  
+  background-image: 
+    linear-gradient(0deg, var(--grid-color) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid-color) 1px, transparent 1px);
+  background-size: 15px 15px;
+}
+
+html.dark body {
+  /* 黑暗模式：改为深色模式下的白色半透明线条 */
+  --grid-color: rgba(255, 255, 255, 0.05);
 }
 
 .max-w-prose {  
